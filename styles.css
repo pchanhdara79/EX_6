@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Garamond, serif;
+  background-color: #ECE0DA;
+}
+
+header {
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+nav {
+  padding-left: 40px;
+  list-style-type: disc;
+  background: #9CAD8C;
+}
+
+article {
+    background-color: #F6B0BB;
+}
+
+section {
+    background-color: #F1C8CB;
+}
+
+footer {
+    background-color: #7E8C69;
+}
