@@ -36,6 +36,10 @@ section {
     background-color: #F1C8CB;
 }
 
+footer.ul {
+    background-color: rgb(170, 211, 199);
+}
+
 footer {
     background-color: rgb(47, 70, 63);
     color: white;
