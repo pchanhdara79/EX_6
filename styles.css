@@ -15,9 +15,7 @@ p {
 }
 
 nav {
-  padding-left: 40px;
-  list-style-type: disc;
-  background: #9CAD8C;
+    background-color: #9fc4b9;
 }
 
 article {
@@ -25,7 +23,7 @@ article {
 }
 
 article.research {
-    background-color: rgb(145, 158, 154);
+    background-color: #919e9a;
 }
 
 aside {
@@ -37,10 +35,10 @@ section {
 }
 
 ul {
-    background-color: rgb(159, 196, 185);
+    background-color: #9fc4b9;
 }
 
 footer {
-    background-color: rgb(47, 70, 63);
+    background-color: #2f463f;
     color: white;
 }
