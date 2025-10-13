@@ -24,6 +24,10 @@ article {
     background-color: #F6B0BB;
 }
 
+article.research {
+    background-color: rgb(145, 158, 154);
+}
+
 aside {
     background-color: #5d7469;
 }
