@@ -1,44 +1,44 @@
-.body {
+body {
   margin: 0;
   font-family: Garamond, serif;
   background-color: #ECE0DA;
 }
 
-.header {
+header {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 15px;
 }
 
-.p {
+p {
   margin-bottom: 15px;
 }
 
-.nav {
+nav {
     background-color: #9fc4b9;
 }
 
-.article {
+article {
     background-color: #F6B0BB;
 }
 
-.article.research {
+article.research {
     background-color: #919e9a;
 }
 
-.aside {
+aside {
     background-color: #5d7469;
 }
 
-.section {
+section {
     background-color: #F1C8CB;
 }
 
-.ul {
+ul {
     background-color: #9fc4b9;
 }
 
-.footer {
+footer {
     background-color: #416157;
     color: white;
 }
